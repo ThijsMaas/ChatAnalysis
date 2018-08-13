@@ -1,9 +1,0 @@
-BEGIN:VCARD
-VERSION:3.0
-N:Worm;Thijs;;;
-FN:Thijs Worm
-item1.TEL;waid=31621167819:+31 6 21167819
-item1.X-ABLabel:Mobiel
-item2.EMAIL;type=INTERNET:Thijs_worm@hotmail.nl
-item2.X-ABLabel:null
-END:VCARD
