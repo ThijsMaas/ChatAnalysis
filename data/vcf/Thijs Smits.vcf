@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Smits;Thijs;;;
+FN:Thijs Smits
+item1.TEL;waid=31654912452:+31 6 54912452
+item1.X-ABLabel:Mobiel
+BDAY;value=date:1994-12-28
+END:VCARD

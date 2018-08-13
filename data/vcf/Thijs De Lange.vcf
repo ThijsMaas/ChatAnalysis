@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:De Lange;Thijs;;;
+FN:Thijs De Lange
+BDAY;value=date:1997-08-10
+TEL;type=HOME:+31 411 642 374
+TEL;type=CELL;type=VOICE;waid=31652351934:+31 6 52351934
+item1.ADR;type=HOME:;;St. Joeisstraat;Helvoirt;;5268cp;Nederland
+X-FACEBOOK:thijs.delange.75
+END:VCARD

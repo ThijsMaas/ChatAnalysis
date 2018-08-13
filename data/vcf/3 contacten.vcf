@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Kremer;Thijs;;;
+FN:Thijs Kremer
+item1.TEL;waid=31640841637:+31 6 40841637
+item1.X-ABLabel:Mobiel
+END:VCARDBEGIN:VCARD
+VERSION:3.0
+N:Erp;Thijs;Van;;
+FN:Thijs Van Erp
+item1.TEL;waid=31615408234:+31 6 15408234
+item1.X-ABLabel:Mobiel
+END:VCARDBEGIN:VCARD
+VERSION:3.0
+N:Wever;Thijs;;;
+FN:Thijs Wever
+item1.TEL;waid=31611601203:+31 6 11601203
+item1.X-ABLabel:Mobiel
+END:VCARD

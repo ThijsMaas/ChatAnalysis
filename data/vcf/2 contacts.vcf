@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:2wak;Thijs;;;
+FN:Thijs 2wak
+item1.TEL;waid=31642954934:+31 6 42954934
+item1.X-ABLabel:Mobile
+END:VCARDBEGIN:VCARD
+VERSION:3.0
+N:Verijdt;Thijs;;;
+FN:Thijs Verijdt
+item1.TEL;waid=31630466618:+31 6 30466618
+item1.X-ABLabel:Mobile
+END:VCARD

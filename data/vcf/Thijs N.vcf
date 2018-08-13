@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:3.0
+N:N;Thijs;;;
+FN:Thijs N
+item1.TEL;waid=31655058582:+31 6 55058582
+item1.X-ABLabel:Mobiel
+END:VCARD

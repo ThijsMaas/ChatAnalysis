@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Jonker;Thijs;;;
+FN:Thijs Jonker
+item1.TEL;waid=31681090855:+31 6 81090855
+item1.X-ABLabel:Mobiel
+END:VCARD

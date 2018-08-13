@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:1;Thijs;;;
+FN:Thijs 1
+item1.TEL;waid=31644622618:+31 6 44622618
+item1.X-ABLabel:Mobiel
+END:VCARDBEGIN:VCARD
+VERSION:3.0
+N:2;Thijs;;;
+FN:Thijs 2
+item1.TEL;waid=31624585716:+31 6 24585716
+item1.X-ABLabel:Mobiel
+END:VCARD
